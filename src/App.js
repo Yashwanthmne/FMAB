@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import $ from 'jquery';
 import './App.css';
 import React,{useEffect} from 'react'
+import YoutubeEmbed from './components/Landing/YoutubeEmbed';
+import Landing from './components/Landing/Landing';
 
 function App() {
   useEffect(()=>{
@@ -43,11 +45,15 @@ function App() {
   return (
     <div id="container-horizontal">
 
-      <div class='section'>one</div>
+      <div class='section'>
+      <Landing/>
+        
+      </div>
       <div class='section'>two</div>
       <div class='section'>three</div>
       <div class='section'>four</div>
       <div class='section'>five</div>
+      <div class='section'>six</div>
  
     </div>
   );

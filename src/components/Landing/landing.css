@@ -1,0 +1,41 @@
+.blackBox {
+    width:100%;
+    height: 100%;
+    background-color:'red';
+  }
+
+  .video-responsive iframe {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+  }
+
+.banner{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  height: 7%;
+  width: 100%;
+  background: #000;
+}
+.front {
+  position:absolute;
+  border:solid 1px #000;
+  width:100%;
+  height:100%;
+  left:0px;
+  top:0px;
+  background:rgba(0,0,0,0.75);
+  box-shadow:0 0 10px #666;
+  
+}
+
+.front img{
+  display: block;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
