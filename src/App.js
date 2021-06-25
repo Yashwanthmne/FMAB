@@ -22,7 +22,7 @@ function App() {
             css3: true,
             navigation: {
                 'textColor': '#000',
-                'bulletsColor': '#000',
+                'bulletsColor': '#FF0000',
                 'position': 'right',
                 'tooltips': ['section1', 'section2', 'section3', 'section4']
             },
@@ -47,8 +47,8 @@ function App() {
 
       <div class='section'>
       <Landing/>
-        
       </div>
+
       <div class='section'>two</div>
       <div class='section'>three</div>
       <div class='section'>four</div>
