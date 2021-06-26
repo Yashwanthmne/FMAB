@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import YoutubeEmbed from "./YoutubeEmbed";
 import "./landing.css"
 import logo from '../../static/fmab.png'
@@ -15,8 +14,8 @@ const Landing = ({ embedId }) => (
           
     
         <div className="front">
-          <img className="logo" src={logo}/>
-          <img className="scrollIndicator" src={scroll}/>
+          <img className="logo" src={logo} alt={"logo"}/>
+          <img className="scrollIndicator" src={scroll} alt={""}/>
         </div>
   </div>
 );
