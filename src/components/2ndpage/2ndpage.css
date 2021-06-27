@@ -10,12 +10,13 @@
     color: #C60000;
     font-size: 62px;
     letter-spacing: 2px;
-    left:3.5%;
-    top: 80px;
+    left:2.5%;
+   
 }
 .image{
     position: absolute;
     right: 0px;
+   
     bottom: -10px;
     z-index: 0;
     transform: scaleX(-1);
@@ -31,16 +32,28 @@
     position: relative;
     color: #C60000;
     font-size: 22px;
-    top: 20px;
-    left: 3.41%;
+    font-weight:bold;
+    left: 2.5%;
     
 }
 .text{
-    width: 50%;
+ 
+    width: 45%;
     position: absolute;
-    font-size: 18px;
+    font-size: 14px;
     z-index: 6;
     left:3.5%;
+    text-overflow:ellipsis;
+    padding-right:10px !important;
     /* background: thistle; */
 }
+.title{
+    padding-top:2% !important;
+}
 
+
+@media(max-width:900px){
+    .text{
+        width:80% !important;
+    }
+}

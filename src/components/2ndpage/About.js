@@ -10,7 +10,7 @@ const About = () =>(
 
         </div>
         <div className='image'>
-        <img style={{ height:'485px', width:'800px'}} src={elricbros}/>
+          <img className='img-responsive' style={{ height:'485px', width:'800px'}} src={elricbros}/>
         </div>
         <div className="title">
         <h1>FULLMETAL ALCHEMIST</h1> 
