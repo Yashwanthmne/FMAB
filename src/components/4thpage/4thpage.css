@@ -1,0 +1,92 @@
+.containerChar{
+  
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    height: 100vh;
+    width: 100%;
+    background: white;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.riza{
+    width:50%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+    
+  
+}
+
+.roy{
+    width:45%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.textChar{
+    width:15%;
+    position: absolute;
+    font-size: 14px !important;
+    z-index: 6;
+  
+    text-overflow:ellipsis;
+   
+}
+.textRoy{
+    width:45%;
+    position: absolute;
+    font-size: 14px !important;
+    z-index: 6;
+    
+    text-overflow:ellipsis;
+   
+}
+.containerChar h3{
+    position: relative;
+    font-family: 'Staatliches';
+    color: #C60000;
+    font-size:52px;
+    letter-spacing: 2px;
+    left:2.5%;
+    line-height: 25px !important;
+   
+}
+.contentRoy p{
+    width:50%;
+    font-size: 14px ;
+
+}
+.contentRoy{
+    margin-left: 5% !important;
+   
+}
+
+.containerChar h5{
+    position: relative;
+    color: #C60000;
+    font-size: 22px;
+    font-weight:bold;
+    left: 2.5%;
+    
+}
+.titleChar{
+    padding-top:6% !important;
+}
+
+@media (max-width:900px){
+
+    .contentRoy p{
+        width:100% !important;
+        font-size: 14px ;
+    
+    }
+   .textChar{
+       width:20% !important;
+   }
+
+}

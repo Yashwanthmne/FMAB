@@ -3,7 +3,7 @@ import './App.css';
 import React,{useEffect} from 'react'
 import Landing from './components/Landing/Landing';
 import About from './components/2ndpage/About';
-
+import Page4 from './components/4thpage/4thpage';
 function App() {
   useEffect(()=>{
 
@@ -51,7 +51,9 @@ function App() {
       <div class='section'>
         <About/>
       </div>
-      <div class='section'>three</div>
+      <div class='section'>
+        <Page4/>
+      </div>
       <div class='section'>four</div>
       <div class='section'>five</div>
       <div class='section'>six</div>
