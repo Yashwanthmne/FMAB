@@ -4,6 +4,8 @@ import React,{useEffect} from 'react'
 import Landing from './components/Landing/Landing';
 import About from './components/2ndpage/About';
 import Page4 from './components/4thpage/4thpage';
+import Page3 from './components/3rdPage/3rdPage';
+import Page5 from './components/5thpage/5thpage'
 function App() {
   useEffect(()=>{
 
@@ -52,10 +54,14 @@ function App() {
         <About/>
       </div>
       <div class='section'>
+        <Page3/>
+      </div>
+      <div class='section'>
         <Page4/>
       </div>
-      <div class='section'>four</div>
-      <div class='section'>five</div>
+      <div class='section'>
+        <Page5/>
+      </div>
       <div class='section'>six</div>
  
     </div>

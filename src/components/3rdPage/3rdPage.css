@@ -1,0 +1,47 @@
+.Container{
+    padding:3%;
+    padding-bottom: 0px !important;
+    background-color:white !important;
+    width:100%;
+    height:100vh;
+}
+
+h1{
+  
+    font-family: 'Staatliches';
+    color: #C60000;
+    font-size: 62px;
+    letter-spacing: 2px;
+    line-height:30px
+   
+   
+}
+
+h5{
+   
+    color: #C60000;
+    font-size: 22px;
+    font-weight:bold;
+  
+    
+}
+.bottom h3{
+    color: #C60000;
+    font-size: 50px;
+    font-weight:bold;
+    
+
+}
+.bottom p{
+    width:90% 
+}
+p{
+    font-size:16px;
+}
+
+.bottom{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top:3% !important;
+}
