@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/FMAB/static/css/main.04f7e7a6.chunk.css",
+    "main.js": "/FMAB/static/js/main.154e223d.chunk.js",
+    "main.js.map": "/FMAB/static/js/main.154e223d.chunk.js.map",
+    "runtime-main.js": "/FMAB/static/js/runtime-main.9a354a83.js",
+    "runtime-main.js.map": "/FMAB/static/js/runtime-main.9a354a83.js.map",
+    "static/js/2.b33faf5f.chunk.js": "/FMAB/static/js/2.b33faf5f.chunk.js",
+    "static/js/2.b33faf5f.chunk.js.map": "/FMAB/static/js/2.b33faf5f.chunk.js.map",
+    "static/js/3.580a970a.chunk.js": "/FMAB/static/js/3.580a970a.chunk.js",
+    "static/js/3.580a970a.chunk.js.map": "/FMAB/static/js/3.580a970a.chunk.js.map",
+    "index.html": "/FMAB/index.html",
+    "static/css/main.04f7e7a6.chunk.css.map": "/FMAB/static/css/main.04f7e7a6.chunk.css.map",
+    "static/js/2.b33faf5f.chunk.js.LICENSE.txt": "/FMAB/static/js/2.b33faf5f.chunk.js.LICENSE.txt",
+    "static/media/antagonist.86b9d7e2.png": "/FMAB/static/media/antagonist.86b9d7e2.png",
+    "static/media/edal.d89773e5.png": "/FMAB/static/media/edal.d89773e5.png",
+    "static/media/fmab.f8838eaa.png": "/FMAB/static/media/fmab.f8838eaa.png",
+    "static/media/riza.5ae8e1d3.png": "/FMAB/static/media/riza.5ae8e1d3.png",
+    "static/media/roy.5bbb292c.png": "/FMAB/static/media/roy.5bbb292c.png",
+    "static/media/screen2.deeac8ab.jpg": "/FMAB/static/media/screen2.deeac8ab.jpg",
+    "static/media/4thpage.css": "/FMAB/static/media/screen3.a18578ed.png",
+    "static/media/symbol.aace6786.png": "/FMAB/static/media/symbol.aace6786.png",
+    "static/media/transmutation-circle.30a54c74.png": "/FMAB/static/media/transmutation-circle.30a54c74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a354a83.js",
+    "static/js/2.b33faf5f.chunk.js",
+    "static/css/main.04f7e7a6.chunk.css",
+    "static/js/main.154e223d.chunk.js"
+  ]
+}
