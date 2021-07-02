@@ -44,4 +44,6 @@ p{
     flex-direction: row;
     justify-content: space-between;
     padding-top:3% !important;
+    position:fixed;
+    bottom: 0;
 }
