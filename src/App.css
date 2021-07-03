@@ -6,10 +6,10 @@
 }
 
 .section:nth-child(1){
-  background-color: aliceblue;
+  background-color: white;
 }
 .section:nth-child(2){
-  background-color:aquamarine
+  background-color:white;
 }
 .section:nth-child(3){
   background-color: rgb(231, 166, 25);
