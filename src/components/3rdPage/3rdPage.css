@@ -18,15 +18,16 @@
 }
 
 .bottom h5{
+    
     font-family: 'Staatliches';
     color: #C60000;
-    font-size: 22px;
+    font-size: 18px;
     font-weight:bold;
   
     
 }
 .bottom h3{
-    
+    letter-spacing: 3px;
     color: #C60000;
     font-size: 50px;
     font-weight:bold;
